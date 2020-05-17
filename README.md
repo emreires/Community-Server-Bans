@@ -1,5 +1,7 @@
 # Community Server Bans
 
+## It does not continue to be developed. No support is provided.
+
 ## Türkçe ##
 CSB, bir SourceMod eklentisidir. CSB, sunucularınızdan tek tek hileleri banlamanızı önleyecek bir sistemdir. Sistemimizde bulunan ban listesine hile olarak gördüğümüz oyuncuları ekliyoruz. Ve eğer sunucunuzda CSB eklentisi bulunuyor ise sistemimizden yasaklanmış oyuncular sunucunuza alınmadan kapı dışarı ediliyor.
 
